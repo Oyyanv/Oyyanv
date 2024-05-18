@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,cs,flutter,tailwind,laravel,figma,git,github">
 </p>
 <hr>
-<h3 align="left">Media Socials</h3>
+<h3 align="left">Media Social</h3>
 <p align="left">
 <a href="https://www.instagram.com/oyyn._/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-807b7a?style=for-the-badge&logo=instagram&logoColor=white">
