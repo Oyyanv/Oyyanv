@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **knowledge**
-- 🌱 I’m currently learning **Flutter,JavaScript,Dart** -
+- 🌱 I’m currently learning **Flutter,JavaScript,Dart**
 - ⚡ Fun fact **wibu suka ngoding**
 
 
