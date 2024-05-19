@@ -28,3 +28,7 @@
 <img src="https://img.shields.io/badge/Twitter-807b7a?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 </p>
+
+<hr>
+**Now Playing**
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lw6c4qxvwb6pewysgy0yq5du6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=439c40&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=lw6c4qxvwb6pewysgy0yq5du6&redirect=true)
