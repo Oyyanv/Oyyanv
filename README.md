@@ -26,9 +26,6 @@
     <a href="https://dart.dev/">
         <img src="https://skillicons.dev/icons?i=dart">
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://skillicons.dev/icons?i=cs">
-    </a>
     <a href="https://flutter.dev/games?gad_source=1&gclid=Cj0KCQjwxqayBhDFARIsAANWRnSV3OYRFPo5XdSVoBnS8R9HgtDsMPqhRCl9vLR56REQm9LhOvuXbR4aAnT0EALw_wcB&gclsrc=aw.ds">
         <img src="https://skillicons.dev/icons?i=flutter">
     </a>
