@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Oyyan</h1>
 
 
-- 🔭 I’m currently working on **knowledge**
-- 🌱 I’m currently learning **Flutter,JavaScript,Dart**
+- 🔭 I’m currently working on **School Project**
+- 🌱 I’m currently learning **Flutter,JavaScript,Laravel**
 - ⚡ Fun fact **wibu suka ngoding**
 
 
