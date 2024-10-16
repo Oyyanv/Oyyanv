@@ -56,4 +56,4 @@
 <h3><b>Spotify</b></h3>
 
 <h3>Portofolio ( WIP )</h3>
-<a href="porto-oyyanz.vercel.app" target="_blank">Portofolio</a>
+<a href="[porto-oyyanz.vercel.app"](https://porto-oyyanz.vercel.app/#home) target="_blank">Portofolio</a>
