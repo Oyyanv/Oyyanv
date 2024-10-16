@@ -3,12 +3,6 @@
 ![Header](./bannerzeta1.gif)
 <h1 align="center">Hi 👋, I'm Oyyan</h1>
 
-
-- 🔭 I’m currently working on **School Project**
-- 🌱 I’m currently learning **Flutter,JavaScript,Laravel**
-- ⚡ Fun fact **wibu suka ngoding**
-
-
 <h3 align="left">Tech Stack</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
