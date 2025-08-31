@@ -1,6 +1,4 @@
 
-
-![Header](./bannerzeta1.gif)
 <h1 align="center">Hi 👋, I'm Oyyan</h1>
 
 <h3 align="left">Tech Stack</h3>
