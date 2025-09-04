@@ -1,4 +1,4 @@
-<img src="Banner.png" width="100%" />
+<img src="new_banner.png" width="100%" />
 <h3>About Me 📜</h3> 
 <ul>
     <li>Gapyear Student</li>
