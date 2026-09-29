@@ -8,7 +8,7 @@
 <hr>
 <h3 align="left">Media Social</h3>
 <p align="left">
-    <a href="https://www.instagram.com/oyyn._/" target="_blank" >
+    <a href="https://www.instagram.com/oyyanz_/" target="_blank" >
         <img src="https://img.shields.io/badge/Instagram-807b7a?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <br>
