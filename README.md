@@ -1,7 +1,7 @@
 <img src="banner.png" width="100%" />
 <h3>About Me 📜</h3> 
 <ul>
-    <li>Gapyear Student</li>
+    <li>Telutizen 😎</li>
     <li>I like to coding, playing games and listening music</li>
     <li><a href="Oyyanz.vercel.app">My Portofolio</a> (Still On Progress 😭)</li>
 </ul>
